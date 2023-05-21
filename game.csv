@@ -1,0 +1,61 @@
+Game,Year,CPU,FPS
+GTA V,2013,CPU1,142
+GTA V,2013,CPU2,156
+GTA V,2013,CPU3,164
+Battlefield 4,2013,CPU1,209
+Battlefield 4,2013,CPU2,263
+Battlefield 4,2013,CPU3,299
+Middle-earth: Shadow of Mordor,2014,CPU1,92
+Middle-earth: Shadow of Mordor,2014,CPU2,149
+Middle-earth: Shadow of Mordor,2014,CPU3,200
+The Sims 4,2014,CPU1,90
+The Sims 4,2014,CPU2,140
+The Sims 4,2014,CPU3,290
+The Witcher 3: Wild Hunt,2015,CPU1,47
+The Witcher 3: Wild Hunt,2015,CPU2,118
+The Witcher 3: Wild Hunt,2015,CPU3,125
+Fallout 4,2015,CPU1,41
+Fallout 4,2015,CPU2,100
+Fallout 4,2015,CPU3,130
+DOOM,2016,CPU1,101
+DOOM,2016,CPU2,134
+DOOM,2016,CPU3,230
+NieR: Automata,2016,CPU1,45
+NieR: Automata,2016,CPU2,60
+NieR: Automata,2016,CPU3,65
+PUBG,2017,CPU1,45
+PUBG,2017,CPU2,205
+PUBG,2017,CPU3,218
+Wolfenstein II,2017,CPU1,155
+Wolfenstein II,2017,CPU2,207
+Wolfenstein II,2017,CPU3,305
+Monster Hunter: World,2018,CPU1,162
+Monster Hunter: World,2018,CPU2,175
+Monster Hunter: World,2018,CPU3,187
+Forza Horizon 4,2018,CPU1,187
+Forza Horizon 4,2018,CPU2,200
+Forza Horizon 4,2018,CPU3,210
+A Plague Tale: Innocence,2019,CPU1,55
+A Plague Tale: Innocence,2019,CPU2,132
+A Plague Tale: Innocence,2019,CPU3,190
+Control,2019,CPU1,44
+Control,2019,CPU2,126
+Control,2019,CPU3,119
+Cyberpunk 2077,2020,CPU1,66
+Cyberpunk 2077,2020,CPU2,106
+Cyberpunk 2077,2020,CPU3,118
+Doom Eternal,2020,CPU1,100
+Doom Eternal,2020,CPU2,298
+Doom Eternal,2020,CPU3,350
+Halo Infinite,2021,CPU1,58
+Halo Infinite,2021,CPU2,116
+Halo Infinite,2021,CPU3,126
+Resident Evil Village,2021,CPU1,49
+Resident Evil Village,2021,CPU2,90
+Resident Evil Village,2021,CPU3,160
+Elden Ring,2022,CPU1,55
+Elden Ring,2022,CPU2,125
+Elden Ring,2022,CPU3,130
+Overwatch 2,2022,CPU1,34
+Overwatch 2,2022,CPU2,130
+Overwatch 2,2022,CPU3,305
